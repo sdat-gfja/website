@@ -1,4 +1,27 @@
-# Routing
+# Routin{
+  "name": "mini-market",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^1.5.0",
+    "next": "14.3.0",
+    "next-pwa": "^6.6.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "@supabase/supabase-js": "^2.10.0",
+    "@stripe/stripe-js": "^1.47.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.4.8",
+    "typescript": "^5.5.0"g
 
 Routing of Hono is flexible and intuitive.
 Let's take a look.
